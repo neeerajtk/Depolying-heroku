@@ -1,0 +1,24 @@
+{
+  "name": "depolying-heroku",
+  "version": "1.0.0",
+  "description": "heroku",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neeerajtk/Depolying-heroku.git"
+  },
+  "author": "neeerajtk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neeerajtk/Depolying-heroku/issues"
+  },
+  "homepage": "https://github.com/neeerajtk/Depolying-heroku#readme"
+}
